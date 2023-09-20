@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 My name is Kari Smith and I am a Python developer!
 
 🌱 I’m currently taking the Python stack at Coding Dojo. codingdojo.com
 🌱 Learning with help from docs.github.com
