@@ -1,5 +1,7 @@
 ### Hi there 👋 My name is Kari Smith and I am a Python developer!
 
+Skills: PYTHON / Flask / HTML / CSS / Bootstrap / SQL / NODEJS / REACT / JS / 
+
 🌱 I’m currently taking the Python stack at Coding Dojo. codingdojo.com
 🌱 Learning with help from docs.github.com
 🔭 Working on assignments that use Python, Flask, HTML, Bootstrap, and SQL.
