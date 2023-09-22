@@ -3,12 +3,18 @@
 Skills: PYTHON / Flask / HTML / CSS / Bootstrap / SQL / NODEJS / REACT / JS / 
 
 🌱 I’m currently taking the Python stack at Coding Dojo. codingdojo.com
+
 🌱 Learning with help from docs.github.com
+
 🔭 Working on assignments that use Python, Flask, HTML, Bootstrap, and SQL.
 
-👩‍🎓 I have a Bachelors of Science degree in Computer Information Systems. 
+
+👩‍🎓 I have a Bachelors of Science degree in Computer Information Systems.
+
 🥷 Taking the Python stack at Coding Dojo.
+
 👩‍💻 Have over 10 years experience working in the IT field as a Software Test Engineer and Agile practices.
+
 
 🦄 My interests are in the Agroforestry, Aerospace, and Health industries.
 
