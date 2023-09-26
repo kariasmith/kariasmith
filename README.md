@@ -7,8 +7,9 @@ Skills: PYTHON / Flask / HTML / CSS / Bootstrap / SQL / NODEJS /
 🌱 Learning with help from docs.github.com
 
 🔭 Working on assignments that use Python, Flask, HTML, Bootstrap, and SQL.
-Plan on learning more about REACT and javascript. Up next on the course is Angular and Django.
 
+Plan on learning more about REACT and javascript. Up next on the course is Angular and Django.
+Balsamiq, Miro, or Figma! Figma is the most complex, but it what the industry uses. Miro is pretty easy to use. And then Balsamiq is a good option that Coding Dojo recommends
 
 👩‍🎓 I have a Bachelors of Science degree in Computer Information Systems.
 
@@ -20,6 +21,7 @@ Plan on learning more about REACT and javascript. Up next on the course is Angul
 🦄 My interests are in the Agroforestry, Aerospace, and Health industries.
 
 🍀 Contact me at kariasmith@hotmail.com
+
 🏳‍🌈🏳‍🌈🏳‍🌈🏳‍🌈🏳‍🌈 Supporter! Let people LOVE and be who they are!  🏳‍🌈🏳‍🌈🏳‍🌈🏳‍🌈🏳‍🌈
 
 <!--
