@@ -1,12 +1,13 @@
 ### Hi there 👋 My name is Kari Smith and I am a Python developer!
 
-Skills: PYTHON / Flask / HTML / CSS / Bootstrap / SQL / NODEJS / REACT / JS / 
+Skills: PYTHON / Flask / HTML / CSS / Bootstrap / SQL / NODEJS / 
 
 🌱 I’m currently taking the Python stack at Coding Dojo. codingdojo.com
 
 🌱 Learning with help from docs.github.com
 
 🔭 Working on assignments that use Python, Flask, HTML, Bootstrap, and SQL.
+Plan on learning more about REACT and javascript. Up next on the course is Angular and Django.
 
 
 👩‍🎓 I have a Bachelors of Science degree in Computer Information Systems.
@@ -19,6 +20,7 @@ Skills: PYTHON / Flask / HTML / CSS / Bootstrap / SQL / NODEJS / REACT / JS /
 🦄 My interests are in the Agroforestry, Aerospace, and Health industries.
 
 🍀 Contact me at kariasmith@hotmail.com
+🏳‍🌈🏳‍🌈🏳‍🌈🏳‍🌈🏳‍🌈 Supporter! Let people LOVE and be who they are!  🏳‍🌈🏳‍🌈🏳‍🌈🏳‍🌈🏳‍🌈
 
 <!--
 **kariasmith/kariasmith** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
