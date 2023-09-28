@@ -8,8 +8,10 @@ Skills: PYTHON / Flask / HTML / CSS / Bootstrap / SQL / NODEJS /
 
 🔭 Working on assignments that use Python, Flask, HTML, Bootstrap, and SQL.
 
-Plan on learning more about REACT and javascript. Up next on the course is Angular and Django.
-Balsamiq, Miro, or Figma! Figma is the most complex, but it what the industry uses. Miro is pretty easy to use. And then Balsamiq is a good option that Coding Dojo recommends
+Up Next: ReactPy is a library for building user interfaces in Python without Javascript.
+Then catching up on Angular and Django.  More practice with Bootstrap and then on to Foundation.
+Plan on learning more about REACT and javascript eventually.
+Balsamiq, Miro, or Figma! Figma is the most complex, but it what the industry uses. Miro is pretty easy to use. And then Balsamiq is a good option that Coding Dojo recommends.
 
 👩‍🎓 I have a Bachelors of Science degree in Computer Information Systems.
 
