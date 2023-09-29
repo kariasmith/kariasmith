@@ -15,8 +15,6 @@ Balsamiq, Miro, or Figma! Figma is the most complex, but it what the industry us
 
 👩‍🎓 I have a Bachelors of Science degree in Computer Information Systems.
 
-🥷 Taking the Python stack at Coding Dojo.
-
 👩‍💻 Have over 10 years experience working in the IT field as a Software Test Engineer and Agile practices.
 
 
