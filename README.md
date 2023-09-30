@@ -17,8 +17,8 @@ Balsamiq, Miro, or Figma! Figma is the most complex, but it what the industry us
 
 👩‍💻 Have over 10 years experience working in the IT field as a Software Test Engineer and Agile practices.
 
-
 🦄 My interests are in the Agroforestry, Aerospace, and Health industries.
+
 
 🍀 Contact me at kariasmith@hotmail.com
 
