@@ -24,6 +24,8 @@ Then catching up on Angular and Django.  More practice with Bootstrap and then o
 Plan on learning more about REACT and javascript eventually.
 Balsamiq, Miro, or Figma! Figma is the most complex, but it what the industry uses. Miro is pretty easy to use. And then Balsamiq is a good option that Coding Dojo recommends.
 
+Reviewing my content:
+
 <!--
 **kariasmith/kariasmith** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
