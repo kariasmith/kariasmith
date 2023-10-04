@@ -26,6 +26,7 @@ Balsamiq, Miro, or Figma! Figma is the most complex, but it what the industry us
 
 Reviewing my content:
 1. Pytest API automation August 2022
+2. Programming Basics
 
 <!--
 **kariasmith/kariasmith** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
