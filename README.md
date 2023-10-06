@@ -28,6 +28,7 @@ Reviewing my content:
 1. Pytest API automation August 2022
 2. Programming Basics
 3. Web Fundamentals
+4. Python Fundamentals
 
 <!--
 **kariasmith/kariasmith** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
