@@ -26,7 +26,7 @@ Balsamiq, Miro, or Figma! Figma is the most complex, but it what the industry us
 
 Reviewing my content:
 1. Pytest API automation August 2022
-2. Programming Basics
+2. Programming Basics June 2023
 3. Web Fundamentals
 4. Python Fundamentals
 
