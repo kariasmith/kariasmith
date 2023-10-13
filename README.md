@@ -28,7 +28,7 @@ Reviewing my content:
 1. Pytest API automation August 2022
 2. Programming Basics June 2023
 3. Web Fundamentals July 2023
-4. Python Fundamentals
+4. Python Fundamentals August-Sept 2023
 5. Tree Survey October 2023
 
 <!--
