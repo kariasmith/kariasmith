@@ -30,6 +30,7 @@ Reviewing my content:
 3. Web Fundamentals July 2023
 4. Python Fundamentals August-Sept 2023
 5. Tree Survey October 2023
+6. Group Project
 
 <!--
 **kariasmith/kariasmith** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
