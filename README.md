@@ -2,7 +2,7 @@
 
 Skills: PYTHON / Flask / HTML / CSS / Bootstrap / SQL / NODEJS / 
 
-🌱 I’m currently taking the Python stack at Coding Dojo. codingdojo.com
+🌱 Received Python stack certification from Coding Dojo, October 2023. codingdojo.com
 
 🌱 Learning with help from docs.github.com
 
