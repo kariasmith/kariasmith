@@ -23,6 +23,7 @@ Up Next: ReactPy is a library for building user interfaces in Python without Jav
 Then catching up on Angular and Django.  More practice with Bootstrap and then on to Foundation.
 Plan on learning more about REACT and javascript eventually.
 Balsamiq, Miro, or Figma! Figma is the most complex, but it what the industry uses. Miro is pretty easy to use. And then Balsamiq is a good option that Coding Dojo recommends.
+https://tailwindcss.com/ 
 
 Reviewing my content:
 1. Pytest API automation August 2022
