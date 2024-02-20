@@ -50,6 +50,11 @@ https://www.webfx.com/tools/emoji-cheat-sheet/
 https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 https://zzetao.github.io/awesome-github-profile/
 https://github.com/anuraghazra/github-readme-stats
+https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md
+https://github.com/anuraghazra/github-readme-stats/discussions/2959    github API
+https://github.com/topics/github-api
+
+> https://github.com/lifeparticle/Markdown-Cheatsheet
 
 
 Up Next: ReactPy is a library for building user interfaces in Python without Javascript.
