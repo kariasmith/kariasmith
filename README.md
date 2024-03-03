@@ -22,6 +22,10 @@
 
 🏳‍🌈🏳‍🌈🏳‍🌈🏳‍🌈🏳‍🌈 Supporter! Let people LOVE and be who they are!  🏳‍🌈🏳‍🌈🏳‍🌈🏳‍🌈🏳‍🌈
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/kariasmith/kariasmith/master/Rainbow-line.gif" alt="Animated line with rainbow colors" width="100%"/>
+</p>
+
 ## Reviewing my content:
 1. Pytest API automation August 2022
 2. Programming Basics June 2023
