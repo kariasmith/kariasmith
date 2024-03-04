@@ -20,8 +20,6 @@
 
 🍀 Contact me at kariasmith@hotmail.com
 
-🏳‍🌈🏳‍🌈🏳‍🌈🏳‍🌈🏳‍🌈 Supporter! Let people LOVE and be who they are!  🏳‍🌈🏳‍🌈🏳‍🌈🏳‍🌈🏳‍🌈
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/kariasmith/kariasmith/master/Rainbow-line.gif" alt="Animated line with rainbow colors" width="100%"/>
 </p>
