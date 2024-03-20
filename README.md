@@ -25,12 +25,9 @@
 </p>
 
 ## Reviewing my content:
-1. Pytest API automation August 2022
-2. Programming Basics June 2023
-3. Web Fundamentals July 2023
-4. Python Fundamentals August-Sept 2023
-5. Tree Survey October 2023
-6. Group Project Oct
+  Pytest API automation August 2022<br>
+  Tree Survey October 2023<br>
+  Group Project Oct 2023<br>
 
 | <a href="https://github.com/kariasmith/github-readme-stats"><img align="center" height="200" src="https://github-readme-stats.vercel.app/api?username=kariasmith&show_icons=true&include_all_commits=true&theme=ambient_gradient&hide_border=true" alt="Kari's github stats" /></a> | <a href="https://github.com/kariasmith/github-readme-stats"><img align="center" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kariasmith&layout=donut&theme=ambient_gradient&hide_border=true" /></a> |
 | ------------- | ------------- |
