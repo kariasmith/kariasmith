@@ -14,9 +14,10 @@
   Pytest API automation August 2022<br>
   Tree Survey (Solo project) October 2023<br>
   Nastalgic Toys (Group project) Oct 2023<br>
+  to-vue-or-not-to-vue currently working on 2024
 
-| <a href="https://github.com/kariasmith/github-readme-stats"><img align="center" height="200" src="https://github-readme-stats.vercel.app/api?username=kariasmith&show_icons=true&include_all_commits=true&theme=ambient_gradient&hide_border=true" alt="Kari's github stats" /></a> | <a href="https://github.com/kariasmith/github-readme-stats"><img align="center" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kariasmith&layout=donut&theme=ambient_gradient&hide_border=true" /></a> |
-| ------------- | ------------- |
+<a href="https://github.com/kariasmith/github-readme-stats"><img align="center" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kariasmith&layout=donut&theme=ambient_gradient&hide_border=true" alt="Kari's github stats" /></a>
+
 
 <!--
 **kariasmith/kariasmith** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -41,6 +42,8 @@ https://github.com/topics/github-api
 
 > https://github.com/lifeparticle/Markdown-Cheatsheet
 
+| <a href="https://github.com/kariasmith/github-readme-stats"><img align="center" height="200" src="https://github-readme-stats.vercel.app/api?username=kariasmith&show_icons=true&include_all_commits=true&theme=ambient_gradient&hide_border=true" alt="Kari's github stats" /></a> 
+| ------------- | ------------- |
 
 Up Next: ReactPy is a library for building user interfaces in Python without Javascript.
 Then catching up on Angular and Django.  More practice with Bootstrap and then on to Foundation.
